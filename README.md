@@ -32,4 +32,4 @@ I’m a **Principal QA Engineer** in Phoenix, AZ. I care about **delivery confid
 
 ### Tech I reach for often
 
-`TypeScript` · `Playwright` · `Cypress` · `Node` · `GitHub Actions` · `API testing` · `CI design` · `k6` / performance thinking
+`TypeScript` · `Playwright` · `Cypress` · `Node` · `GitHub Actions` · `API testing` · `CI design` · `k6` performance testing
