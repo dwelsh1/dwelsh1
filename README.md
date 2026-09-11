@@ -19,6 +19,7 @@ I’m a **Principal QA Engineer** in Phoenix, AZ. I care about **delivery confid
 | [**playwright-ai-test-framework**](https://github.com/dwelsh1/playwright-ai-test-framework) | Enterprise-ready **Playwright** + TypeScript: fixtures, Zod, smart reporting, and a mirrored **AI skills** layer (Claude / Cursor / Copilot). |
 | [**cypress-ai-test-framework**](https://github.com/dwelsh1/cypress-ai-test-framework) | Enterprise-ready **Cypress** + TypeScript: Lean POM, Allure 3, multi-reporter CI, and the same **skills + orchestrator** idea tuned for Cypress. |
 | [**coffee-cart**](https://github.com/dwelsh1/coffee-cart) | Demo **Vue 3** coffee shop app used as a realistic target for both frameworks. |
+| [**voice-dictation**](https://github.com/dwelsh1/voice-dictation) | Native **Windows** push-to-talk dictation: local Whisper, cleanup, and text insertion. |
 | [**vbreview.com**](https://github.com/dwelsh1/vbreview.com) | **Portfolio site** — projects, blog, resume context. |
 
 ---
